@@ -6,6 +6,9 @@ body {
   color: #3c484e;
   font-family: open sans, sans-serif;
 }
+h1 {
+  color: #3498db;
+}
 .Header-main {
   display: flex;
   justify-content: space-between;
